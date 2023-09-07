@@ -1,6 +1,6 @@
 package tictactoe;
 import java.util.*;
-public class Main {
+public class tictactoe {
     public static boolean xWin = false;
     public static boolean oWin = false;
     public static char grid[][] = new char[3][3];
